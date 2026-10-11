@@ -13,3 +13,5 @@ ghostty
 warp
 alacritty
 wezterm
+
+artcraft
