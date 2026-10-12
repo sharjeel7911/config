@@ -1,0 +1,6 @@
+BasedOnStyle: Google
+BreakBeforeBraces: Attach
+ColumnLimit: 500
+IndentWidth: 2
+UseTab: ForIndentation
+TabWidth: 2
