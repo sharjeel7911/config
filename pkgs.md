@@ -1,6 +1,8 @@
 leaf 
 sucher
 bookrat
+glow
+mdt
 
 zoxide
 Lazygit
